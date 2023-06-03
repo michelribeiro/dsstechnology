@@ -5,12 +5,12 @@ export default function Header() {
     <>
       <header
         className="
-        bg-[url('/img/call-to-action.png')] grid content-center bg-cover bg-bottom bg-no-repeat grid-cols-1 h-[400px]
+        bg-[url('/dsstechnology/img/call-to-action.png')] grid content-center bg-cover bg-bottom bg-no-repeat grid-cols-1 h-[400px]
       "
       >
         <h1 className="ml-8">
           <Image
-            src="/img/logo.png"
+            src="/dsstechnology/img/logo.png"
             alt="Deceptive Security Suite Technology"
             width={150}
             height={150}
